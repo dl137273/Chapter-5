@@ -1,0 +1,25 @@
+Chapter 5 Vocabulary Test
+Accumulator
+COunter
+Do Until Loop
+Do While Loop
+For...Next Loop
+Infinite Loop
+Input boxes
+iteration
+Loop
+Nested Loop
+Random Object
+Running Total
+A List box or combo box index numbering starts at this level? 0, 1, -1, or any value you specify
+
+What does this statement Do?
+
+Dim x As Integer = 10
+Dim y as Integer = 5
+
+If x > 9 Then
+lblResult.Text = "Hello"
+Else
+lblResult.Text = "Goodbye"
+EndIf

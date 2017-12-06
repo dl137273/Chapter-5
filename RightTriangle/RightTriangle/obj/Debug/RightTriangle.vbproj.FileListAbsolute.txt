@@ -1,0 +1,10 @@
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\bin\Debug\RightTriangle.exe.config
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\obj\Debug\RightTriangle.Form1.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\obj\Debug\RightTriangle.Resources.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\obj\Debug\RightTriangle.vbproj.GenerateResource.Cache
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\bin\Debug\RightTriangle.exe
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\bin\Debug\RightTriangle.pdb
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\bin\Debug\RightTriangle.xml
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\obj\Debug\RightTriangle.exe
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\obj\Debug\RightTriangle.xml
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\RightTriangle\RightTriangle\obj\Debug\RightTriangle.pdb
