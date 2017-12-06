@@ -4,7 +4,7 @@
         Dim box = New Coin_Toss()
         box.Show()
     End Sub
-    Private Sub btnTestScores_Click(sender As Object, e As EventArgs) Handles btnTestScores.Click
+    Private Sub btnTestScores_Click(sender As Object, e As EventArgs)
         Dim box = New Test_Scores
         box.Show()
     End Sub

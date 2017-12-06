@@ -23,7 +23,6 @@ Partial Class Menu
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.btnCoinToss = New System.Windows.Forms.Button()
-        Me.btnTestScores = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
@@ -36,15 +35,6 @@ Partial Class Menu
         Me.btnCoinToss.TabIndex = 0
         Me.btnCoinToss.Text = "Coin Toss"
         Me.btnCoinToss.UseVisualStyleBackColor = True
-        '
-        'btnTestScores
-        '
-        Me.btnTestScores.Location = New System.Drawing.Point(160, 216)
-        Me.btnTestScores.Name = "btnTestScores"
-        Me.btnTestScores.Size = New System.Drawing.Size(75, 23)
-        Me.btnTestScores.TabIndex = 2
-        Me.btnTestScores.Text = "Test Scores"
-        Me.btnTestScores.UseVisualStyleBackColor = True
         '
         'Label1
         '
@@ -73,7 +63,6 @@ Partial Class Menu
         Me.ClientSize = New System.Drawing.Size(413, 389)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.btnTestScores)
         Me.Controls.Add(Me.btnCoinToss)
         Me.Name = "Menu"
         Me.Text = "Menu"
@@ -82,7 +71,6 @@ Partial Class Menu
 
     End Sub
     Friend WithEvents btnCoinToss As System.Windows.Forms.Button
-    Friend WithEvents btnTestScores As System.Windows.Forms.Button
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
 End Class

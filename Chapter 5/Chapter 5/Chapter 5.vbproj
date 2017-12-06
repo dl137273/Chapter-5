@@ -70,6 +70,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Race Car Game.Designer.vb">
+      <DependentUpon>Race Car Game.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Race Car Game.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Rock Paper Scissors.Designer.vb">
       <DependentUpon>Rock Paper Scissors.vb</DependentUpon>
     </Compile>
@@ -109,12 +115,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Test Scores.Designer.vb">
-      <DependentUpon>Test Scores.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Test Scores.vb">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form2.resx">
@@ -129,14 +129,14 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Race Car Game.resx">
+      <DependentUpon>Race Car Game.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Rock Paper Scissors.resx">
       <DependentUpon>Rock Paper Scissors.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Sum Of Numbers.resx">
       <DependentUpon>Sum Of Numbers.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Test Scores.resx">
-      <DependentUpon>Test Scores.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -165,6 +165,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Sci.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pelican.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pelican1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\penguin.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
