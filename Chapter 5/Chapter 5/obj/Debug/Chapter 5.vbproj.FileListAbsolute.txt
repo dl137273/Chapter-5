@@ -26,3 +26,13 @@ C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\C
 C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.exe
 C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.xml
 C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.pdb
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Coin_Toss.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Menu.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Resources.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Race_Car_Game.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Rock_paper_Scissors.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter 5.vbproj.GenerateResource.Cache
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.exe
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.pdb
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.xml
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Sum_Of_Numbers.resources

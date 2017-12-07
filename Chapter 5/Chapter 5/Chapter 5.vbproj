@@ -82,16 +82,10 @@
     <Compile Include="Rock Paper Scissors.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sum Of Numbers.Designer.vb">
-      <DependentUpon>Sum Of Numbers.vb</DependentUpon>
+    <Compile Include="Coin Flip.Designer.vb">
+      <DependentUpon>Coin Flip.vb</DependentUpon>
     </Compile>
-    <Compile Include="Sum Of Numbers.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Form2.vb">
+    <Compile Include="Coin Flip.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Menu.Designer.vb">
@@ -115,10 +109,14 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Sum Of Numbers.Designer.vb">
+      <DependentUpon>Sum Of Numbers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sum Of Numbers.vb" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="Coin Flip.resx">
+      <DependentUpon>Coin Flip.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.vb</DependentUpon>
@@ -177,6 +175,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\penguin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fin.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

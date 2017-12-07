@@ -23,7 +23,27 @@ Chapter5
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:Chapter_5.My.Resources.Resources.fin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:Chapter_5.My.Resources.Resources.Paper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chapter_5.My.Resources.Resources.parrot">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chapter_5.My.Resources.Resources.pelican">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chapter_5.My.Resources.Resources.pelican1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Chapter_5.My.Resources.Resources.penguin">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
