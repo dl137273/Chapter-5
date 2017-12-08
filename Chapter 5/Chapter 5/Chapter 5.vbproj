@@ -70,6 +70,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Distance Calculator.Designer.vb">
+      <DependentUpon>Distance Calculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Distance Calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Race Car Game.Designer.vb">
       <DependentUpon>Race Car Game.vb</DependentUpon>
     </Compile>
@@ -112,11 +118,16 @@
     <Compile Include="Sum Of Numbers.Designer.vb">
       <DependentUpon>Sum Of Numbers.vb</DependentUpon>
     </Compile>
-    <Compile Include="Sum Of Numbers.vb" />
+    <Compile Include="Sum Of Numbers.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Coin Flip.resx">
       <DependentUpon>Coin Flip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Distance Calculator.resx">
+      <DependentUpon>Distance Calculator.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.vb</DependentUpon>

@@ -35,4 +35,5 @@ C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\C
 C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.exe
 C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.pdb
 C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\bin\Debug\Chapter 5.xml
-C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Sum_Of_Numbers.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Form1.resources
+C:\Users\dl137273\Desktop\Visual Basic\Chapter-5\Chapter 5\Chapter 5\obj\Debug\Chapter_5.Distance_Calculator.resources

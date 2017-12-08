@@ -14,8 +14,8 @@
         Dim box = New Rock_paper_Scissors
         box.Show()
     End Sub
-
-    Private Sub btnSumOfNumbers_Click(sender As Object, e As EventArgs) Handles btnSumOfNumbers.Click
-
+    Private Sub btnDistanceCalculator_Click(sender As Object, e As EventArgs) Handles btnDistanceCalculator.Click
+        Dim box = New Distance_Calculator
+        box.Show()
     End Sub
 End Class
