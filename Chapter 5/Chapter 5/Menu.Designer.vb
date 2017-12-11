@@ -28,6 +28,8 @@ Partial Class Menu
         Me.btnRaceCarGame = New System.Windows.Forms.Button()
         Me.btnSumOfNumbers = New System.Windows.Forms.Button()
         Me.btnDistanceCalculator = New System.Windows.Forms.Button()
+        Me.btnPopulation = New System.Windows.Forms.Button()
+        Me.btnRandomName = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btnCoinToss
@@ -70,7 +72,7 @@ Partial Class Menu
         '
         'btnSumOfNumbers
         '
-        Me.btnSumOfNumbers.Location = New System.Drawing.Point(160, 223)
+        Me.btnSumOfNumbers.Location = New System.Drawing.Point(160, 334)
         Me.btnSumOfNumbers.Name = "btnSumOfNumbers"
         Me.btnSumOfNumbers.Size = New System.Drawing.Size(75, 37)
         Me.btnSumOfNumbers.TabIndex = 6
@@ -79,18 +81,38 @@ Partial Class Menu
         '
         'btnDistanceCalculator
         '
-        Me.btnDistanceCalculator.Location = New System.Drawing.Point(160, 277)
+        Me.btnDistanceCalculator.Location = New System.Drawing.Point(160, 224)
         Me.btnDistanceCalculator.Name = "btnDistanceCalculator"
         Me.btnDistanceCalculator.Size = New System.Drawing.Size(75, 37)
         Me.btnDistanceCalculator.TabIndex = 7
         Me.btnDistanceCalculator.Text = "Distance Calculator"
         Me.btnDistanceCalculator.UseVisualStyleBackColor = True
         '
+        'btnPopulation
+        '
+        Me.btnPopulation.Location = New System.Drawing.Point(160, 281)
+        Me.btnPopulation.Name = "btnPopulation"
+        Me.btnPopulation.Size = New System.Drawing.Size(75, 37)
+        Me.btnPopulation.TabIndex = 8
+        Me.btnPopulation.Text = "Population"
+        Me.btnPopulation.UseVisualStyleBackColor = True
+        '
+        'btnRandomName
+        '
+        Me.btnRandomName.Location = New System.Drawing.Point(160, 387)
+        Me.btnRandomName.Name = "btnRandomName"
+        Me.btnRandomName.Size = New System.Drawing.Size(87, 50)
+        Me.btnRandomName.TabIndex = 9
+        Me.btnRandomName.Text = "Random Name Guessing Game"
+        Me.btnRandomName.UseVisualStyleBackColor = True
+        '
         'Menu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(433, 458)
+        Me.Controls.Add(Me.btnRandomName)
+        Me.Controls.Add(Me.btnPopulation)
         Me.Controls.Add(Me.btnDistanceCalculator)
         Me.Controls.Add(Me.btnSumOfNumbers)
         Me.Controls.Add(Me.btnRaceCarGame)
@@ -109,4 +131,6 @@ Partial Class Menu
     Friend WithEvents btnRaceCarGame As System.Windows.Forms.Button
     Friend WithEvents btnSumOfNumbers As System.Windows.Forms.Button
     Friend WithEvents btnDistanceCalculator As System.Windows.Forms.Button
+    Friend WithEvents btnPopulation As System.Windows.Forms.Button
+    Friend WithEvents btnRandomName As System.Windows.Forms.Button
 End Class
