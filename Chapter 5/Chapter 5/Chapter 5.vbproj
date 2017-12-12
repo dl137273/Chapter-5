@@ -88,6 +88,12 @@
     <Compile Include="Race Car Game.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Random Number Guesser.Designer.vb">
+      <DependentUpon>Random Number Guesser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Random Number Guesser.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Rock Paper Scissors.Designer.vb">
       <DependentUpon>Rock Paper Scissors.vb</DependentUpon>
     </Compile>
@@ -121,12 +127,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Sum Of Numbers.Designer.vb">
-      <DependentUpon>Sum Of Numbers.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Sum Of Numbers.vb">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Coin Flip.resx">
@@ -150,11 +150,11 @@
     <EmbeddedResource Include="Race Car Game.resx">
       <DependentUpon>Race Car Game.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Random Number Guesser.resx">
+      <DependentUpon>Random Number Guesser.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Rock Paper Scissors.resx">
       <DependentUpon>Rock Paper Scissors.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sum Of Numbers.resx">
-      <DependentUpon>Sum Of Numbers.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

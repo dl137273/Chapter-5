@@ -23,4 +23,9 @@
         Dim box = New Population
         box.Show()
     End Sub
+
+    Private Sub btnRandomName_Click(sender As Object, e As EventArgs) Handles btnRandomName.Click
+        Dim box = New Random_Number_Generator
+        box.Show()
+    End Sub
 End Class

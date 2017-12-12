@@ -26,7 +26,6 @@ Partial Class Menu
         Me.Label1 = New System.Windows.Forms.Label()
         Me.btnRockPaperScissors = New System.Windows.Forms.Button()
         Me.btnRaceCarGame = New System.Windows.Forms.Button()
-        Me.btnSumOfNumbers = New System.Windows.Forms.Button()
         Me.btnDistanceCalculator = New System.Windows.Forms.Button()
         Me.btnPopulation = New System.Windows.Forms.Button()
         Me.btnRandomName = New System.Windows.Forms.Button()
@@ -70,15 +69,6 @@ Partial Class Menu
         Me.btnRaceCarGame.Text = "Race Car Game"
         Me.btnRaceCarGame.UseVisualStyleBackColor = True
         '
-        'btnSumOfNumbers
-        '
-        Me.btnSumOfNumbers.Location = New System.Drawing.Point(160, 334)
-        Me.btnSumOfNumbers.Name = "btnSumOfNumbers"
-        Me.btnSumOfNumbers.Size = New System.Drawing.Size(75, 37)
-        Me.btnSumOfNumbers.TabIndex = 6
-        Me.btnSumOfNumbers.Text = "Sum Of Numbers"
-        Me.btnSumOfNumbers.UseVisualStyleBackColor = True
-        '
         'btnDistanceCalculator
         '
         Me.btnDistanceCalculator.Location = New System.Drawing.Point(160, 224)
@@ -99,11 +89,11 @@ Partial Class Menu
         '
         'btnRandomName
         '
-        Me.btnRandomName.Location = New System.Drawing.Point(160, 387)
+        Me.btnRandomName.Location = New System.Drawing.Point(160, 351)
         Me.btnRandomName.Name = "btnRandomName"
         Me.btnRandomName.Size = New System.Drawing.Size(87, 50)
         Me.btnRandomName.TabIndex = 9
-        Me.btnRandomName.Text = "Random Name Guessing Game"
+        Me.btnRandomName.Text = "Random Number Guessing Game"
         Me.btnRandomName.UseVisualStyleBackColor = True
         '
         'Menu
@@ -114,7 +104,6 @@ Partial Class Menu
         Me.Controls.Add(Me.btnRandomName)
         Me.Controls.Add(Me.btnPopulation)
         Me.Controls.Add(Me.btnDistanceCalculator)
-        Me.Controls.Add(Me.btnSumOfNumbers)
         Me.Controls.Add(Me.btnRaceCarGame)
         Me.Controls.Add(Me.btnRockPaperScissors)
         Me.Controls.Add(Me.Label1)
@@ -129,7 +118,6 @@ Partial Class Menu
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents btnRockPaperScissors As System.Windows.Forms.Button
     Friend WithEvents btnRaceCarGame As System.Windows.Forms.Button
-    Friend WithEvents btnSumOfNumbers As System.Windows.Forms.Button
     Friend WithEvents btnDistanceCalculator As System.Windows.Forms.Button
     Friend WithEvents btnPopulation As System.Windows.Forms.Button
     Friend WithEvents btnRandomName As System.Windows.Forms.Button
